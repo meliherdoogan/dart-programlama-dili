@@ -1,7 +1,7 @@
 name: dart__programlama__dili
-description: A sample command-line application.
+description: "Emre Altunbilek'e ait BTK Akademi'deki Dart Programlama Dili eğitimine ait çalışmalar ve kodlar"
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/meliherdoogan/dart-programlama-dili
 
 environment:
   sdk: ^3.13.7
